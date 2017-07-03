@@ -1,0 +1,20 @@
+{
+  "name": "checkoutserverapp",
+  "version": "1.0.0",
+  "description": "Server for Checkout App System",
+  "main": "server.js\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[DcheckoutServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ajaz\u001b[D\u001b[D\u001b[Ddam",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "lodash": "^4.17.4",
+    "method-override": "^2.3.9",
+    "mongoose": "^4.10.8",
+    "node-restful": "^0.2.6",
+    "resourcejs": "^1.7.0"
+  }
+}
