@@ -2,5 +2,6 @@
 module.exports = {
 	Products: require('./Products.js'),
 	Company:  require('./Company.js'),
-	CompanyTx: require('./CompanyTx.js')
+	CompanyTx: require('./CompanyTx.js'),
+	Report: require('./Report.js')
 };
